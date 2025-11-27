@@ -5,9 +5,10 @@
 <p> Mikroprocessorn (MCU - micro controller unit) som användes var Plusivo. Vi använde Arduinos IDE-program men använde Plusivos MCU och la in en ytterligare board manager url som jag googlade fram - esp 8266 (http://arduino.esp8266.com/stable/package_esp8266com_index.json). 
 <br>
 <h2>Hur gjorde jag? Var klickade jag?</h2>
+<img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192022.png" width="200">
 I Arduino klickade jag på <b>File</b> i vänstra hörnet högst upp, sedan <b>Preferences</b> och under <b>Additional boards manager URLs</b> klistrade jag in URL:en för ESP 8266.
 <br>
-Sedan gick jag in i <b>Boards Manager</b> som finns i vänster kant.
+Sedan gick jag in i <b>Boards Manager</b> som finns i vänster kant och installerade ESP 8266.
 <br>
 <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20195500.png" width="200">
 Därefter klickade jag på <b>Tools</b> i samma hörn, 
