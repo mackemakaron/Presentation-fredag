@@ -16,7 +16,8 @@ I Arduino, vänstra hörnet högst upp, hittade jag denna meny:
 <br>
 Jag klickade på <b>File -> Preferences</b> och under <b>Additional boards manager URLs</b> klistrade jag in URL för ESP8266 som jag hittade med en snabb googling.
 <br>
-BILD
+<img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20233010.png">
+<img src=
 <br>
 I vänster kant finns <b>Boards Manager</b> som jag sedan gick in på och sökte på ESP8266. Jag installerade den.
 <br>
