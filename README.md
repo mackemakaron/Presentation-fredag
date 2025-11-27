@@ -66,7 +66,7 @@ void loop() {
 Arduino har två basfunktioner: <code>void setup()</code> och <code>void loop()</code>. Som kommentarerna (//) säger så körs setup en gång när Arduino startas eller återställs, medan loop körs om och om igen sålänge Arduino är på eller tills man stoppar den i koden. Koden visar att lampan tänds vid <code>HIGH</code> och släcks vid <code>LOW</code>. I koden kan jag dessutom ändra blinkningens hastighet genom att ändra värdet på <code>delay(1000)</code>. Som kommentarerna berättar så är 1000 = 1 sek. Ändrar man värdet till exempelvis 500 = 0,5 sek.
 <br>
 <br>
-Sista steget är nu att kompilera koden och sedan ladda upp den. För att kompilera filen måste man klicka på <b>Verify</b> (bocken) och sedan på <b>Upload</b> (pilen) för att ladda upp den.
+Sista steget är nu att kompilera koden och sedan ladda upp den. För att kompilera koden måste man klicka på <b>Verify</b> (bocken) och sedan på <b>Upload</b> (pilen) för att ladda upp den.
 <br>
 <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20200332.png">
 </p>
