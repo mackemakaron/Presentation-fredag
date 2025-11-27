@@ -1,6 +1,6 @@
 # Presentation-fredag
 <h1>Översikt</h1>
-<p>Här ska jag berätta och visa hur jag har fått en lampa att blinka.</p>
+<p>Här ska jag förklara och visa hur jag har fått en lampa att blinka.</p>
 <h2>Mikroprocessor</h2>
 <p> Mikroprocessorn (MCU - micro controller unit) som användes var Plusivo. Vi använde Arduinos IDE-program men använde Plusivos MCU och la in en ytterligare board manager url som jag googlade fram - esp 8266 (http://arduino.esp8266.com/stable/package_esp8266com_index.json). 
 <br>
