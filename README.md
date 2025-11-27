@@ -2,7 +2,11 @@
 <h1>Översikt</h1>
 <p>Här ska jag berätta och visa hur jag har fått en lampa att blinka.</p>
 <h1>Mikroprocessor</h1>
-<p> Mikroprocessorn (MCU - micro controller unit) som användes var Plusivo. Vi använda Arduinos IDE-program men använde Plusivos MCU och la in en ytterligare board manager url som jag googlade fram - esp 8266 (http://arduino.esp8266.com/stable/package_esp8266com_index.json). </p>
+<p> Mikroprocessorn (MCU - micro controller unit) som användes var Plusivo. Vi använde Arduinos IDE-program men använde Plusivos MCU och la in en ytterligare board manager url som jag googlade fram - esp 8266 (http://arduino.esp8266.com/stable/package_esp8266com_index.json). 
+<br>
+  I Arduino klickade jag på <b>Tools</b>
+  <br>
+ <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192022.png" width="300"></p>
 <h1>Här är koden</h1>
 <p>
   <code>void setup() {
@@ -23,5 +27,5 @@ I koden kunde jag ändra <code>delay(1000)</code> för att ändra blinkningens h
 <br>
   <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192022.png" width="300">
   <br>
-  <img src="
+  <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192749.png" width="300"
 </p>
