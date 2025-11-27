@@ -18,3 +18,4 @@ void loop()
   delay(1000);                      // wait for a second
 }</code>
 </p>
+<p>// är kommentarer</p>
