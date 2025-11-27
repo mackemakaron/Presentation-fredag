@@ -3,6 +3,14 @@
 <p>Här ska jag berätta och visa hur jag har fått en lampa att blinka.</p>
 <h1>Mikroprocessor</h1>
 <p> Mikroprocessorn (MCU - micro controller unit) som användes var Plusivo. Vi använde Arduinos IDE-program men använde Plusivos MCU och la in en ytterligare board manager url som jag googlade fram - esp 8266 (http://arduino.esp8266.com/stable/package_esp8266com_index.json). 
+<br>
+<h2>Hur gjorde jag? Var klickade jag?</h2>
+I Arduino klickade jag på <b>File</b> i vänstra hörnet högst upp, sedan <b>Preferences</b> och under <b>Additional boards manager URLs</b> klistrade jag in URL:en för ESP 8266.
+<br>
+Sedan gick jag in i <b>Boards Manager</b> som finns i vänster kant.
+<br>
+<img src=".
+Därefter klickade jag på <b>Tools</b> i samma hörn, 
   <br>
   <br>
   Jag kopplade in Mikroprocessorn i en av datorns USB-portar.
