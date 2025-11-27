@@ -1,8 +1,8 @@
 # Presentation-fredag
 <h1>Översikt</h1>
-<p>Med hjälp av Arduino har jag fått en lampa att blinka.</p>
+<p>Här ska jag berätta och visa hur jag har fått en lampa att blinka.</p>
 <h1>Mikroprocessor</h1>
-<p> Mikroprocessorn (MCU - micro controller unit) som användes var Plusivo </p>
+<p> Mikroprocessorn (MCU - micro controller unit) som användes var Plusivo. Vi använda Arduinos IDE-program men använde Plusivos MCU och la in en ytterligare board manager url som jag googlade fram - esp 8266 (http://arduino.esp8266.com/stable/package_esp8266com_index.json). </p>
 <h1>Här är koden</h1>
 <p>
   <code>void setup() {
@@ -18,4 +18,8 @@ void loop()
   delay(1000);                      // wait for a second
 }</code>
 </p>
-<p>// är kommentarer</p>
+<p>// är kommentarer som gäller för just den raden, /* och */ är längre blockkommentarer och dom ignoreras av kompilatorn när den bygger objektkod.
+I koden kunde jag ändra <code>delay(1000)</code> för att ändra blinkningens hastighet.
+void setup -
+void loop -
+</p>
