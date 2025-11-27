@@ -16,7 +16,7 @@ Därefter klickade jag på <b>Tools</b> i samma hörn och valde <b>Generic ESP82
   Jag kopplade in Mikroprocessorn i en av datorns USB-portar.
   <br>
   <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Porten.jpg" width="200">
-  Jag valde rätt port och provade
+  Jag valde rätt port och provade sedan om det funkade 
 </p>
 <h1>Här är koden</h1>
 <p>
