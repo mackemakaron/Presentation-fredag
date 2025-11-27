@@ -20,7 +20,8 @@ void loop()
 </p>
 <p>// är kommentarer som gäller för just den raden, /* och */ är längre blockkommentarer och dom ignoreras av kompilatorn när den bygger objektkod.
 I koden kunde jag ändra <code>delay(1000)</code> för att ändra blinkningens hastighet.
-void setup -
-void loop -
-<img src="
+<br>
+  <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192022.png" width="300">
+  <br>
+  <img src="
 </p>
