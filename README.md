@@ -4,7 +4,7 @@
 <h2>Vad gör Arduino?</h2>
 <p>I Arduino skriver man in <b>Source Code</b> (det vi kan tyda) som sedan kompileras till <b>Object Code</b> (det datorn kan tyda). Source code är alltså kod vi människor skriver in med ord och kan läsa, medan object code är binär kod - ettor och nollor - som datorn kan läsa. Därefter kan man ladda upp koden till en mikrokontroller med USB, och beroende på vilken dator du har, till USB-A eller USB-C. I mitt fall hade jag USB-A.</p>
 
-<img src=" BILD PÅ USB
+<img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Porten.jpg" width="200">
 
 <h2>Steg för steg</h2>
 <p>Nu ska jag steg för steg gå igenom hur jag fick lampan att blinka.
