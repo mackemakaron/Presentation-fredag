@@ -16,7 +16,7 @@ I Arduino, vänstra hörnet högst upp, hittade jag denna meny:
 <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192022.png">
 <br>
 <br>
-Jag klickade på <b>File -> Preferences</b> och under <b>Additional boards manager URLs</b> klistrade jag in URL för ESP8266 som jag hittade med en snabb googling.
+Jag klickade på <b>File -> Preferences</b> och i <b>Additional boards manager URLs</b> klistrade jag in URL för ESP8266 som jag hittade med en snabb googling.
 <br>
 <br>
 <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20233010.png" width="200">
@@ -35,10 +35,10 @@ Därefter vände jag blicken mot denna meny igen
 <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192022.png">
 <br>
 <br>
-Sen klickade jag på <b>Tools -> Board -> esp2866 -> Generic ESP8266 Module</b>.
+Jag klickade på <b>Tools -> Board -> esp2866 -> Generic ESP8266 Module</b>.
 <br>
 <br>
-<img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192749.png"
+<img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192749.png" width="600">
 <br>
 Jag såg sedan till att mikroprocessorn var kopplad till datorn och att Arduino använde rätt port.
 
