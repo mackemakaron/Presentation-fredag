@@ -35,7 +35,7 @@ Därefter vände jag blicken mot denna meny igen
 <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192022.png">
 <br>
 <br>
-Jag klickade på <b>Tools -> Board -> esp2866 -> Generic ESP8266 Module</b>.
+Jag klickade på <b>Tools -> Board -> esp8266 -> Generic ESP8266 Module</b>.
 <br>
 <br>
 <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192749.png" width="600">
